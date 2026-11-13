@@ -1,0 +1,14 @@
+[
+  {"number":"INV-001","type":"ПК","name":"Dell OptiPlex 3080","room":"101","state":"исправно","received":"2023-09-01","responsible":"Иванов И.И."},
+  {"number":"INV-002","type":"ПК","name":"Dell OptiPlex 3080","room":"101","state":"исправно","received":"2023-09-01","responsible":"Иванов И.И."},
+  {"number":"INV-003","type":"монитор","name":"Samsung S24R350","room":"101","state":"исправно","received":"2023-09-01","responsible":"Иванов И.И."},
+  {"number":"INV-004","type":"монитор","name":"Samsung S24R350","room":"101","state":"требует ремонта","received":"2023-09-01","responsible":"Иванов И.И."},
+  {"number":"INV-005","type":"принтер","name":"HP LaserJet Pro M404","room":"101","state":"исправно","received":"2022-02-15","responsible":"Иванов И.И."},
+  {"number":"INV-006","type":"ПК","name":"Lenovo ThinkCentre M70","room":"102","state":"исправно","received":"2024-01-20","responsible":"Петрова А.С."},
+  {"number":"INV-007","type":"ПК","name":"Lenovo ThinkCentre M70","room":"102","state":"требует ремонта","received":"2024-01-20","responsible":"Петрова А.С."},
+  {"number":"INV-008","type":"монитор","name":"LG 24MK430H","room":"102","state":"исправно","received":"2024-01-20","responsible":"Петрова А.С."},
+  {"number":"INV-009","type":"проектор","name":"Epson EB-X06","room":"102","state":"исправно","received":"2021-11-10","responsible":"Петрова А.С."},
+  {"number":"INV-010","type":"ПК","name":"HP ProDesk 400 G4","room":"205","state":"списано","received":"2017-05-03","responsible":"Сидоров П.К."},
+  {"number":"INV-011","type":"принтер","name":"Canon i-SENSYS LBP6030","room":"205","state":"списано","received":"2016-09-12","responsible":"Сидоров П.К."},
+  {"number":"INV-012","type":"маршрутизатор","name":"MikroTik hAP ac2","room":"205","state":"исправно","received":"2023-03-07","responsible":"Сидоров П.К."}
+]
